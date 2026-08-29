@@ -1,0 +1,5 @@
+﻿PyQt6>=6.4.0
+whisperx
+torch
+torchaudio
+transformers

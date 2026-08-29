@@ -1,0 +1,17 @@
+﻿{
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "output_formats": [
+        "srt",
+        "txt"
+    ],
+    "vad_filter": true,
+    "align": true,
+    "diarize": false,
+    "language": "auto",
+    "ui_language": "zh",
+    "theme_mode": "light",
+    "use_hf_mirror": true,
+    "whisperx_path": "whisperx"
+}
