@@ -76,6 +76,7 @@ sys.excepthook = global_exception_handler
 os.environ["QT_API"] = "pyqt6"
 
 from PyQt6.QtWidgets import QApplication
+from PyQt6.QtGui import QFont
 
 # Ensure correct working directory so modules can be imported
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -84,6 +85,7 @@ from ui.main_window import MainWindow
 
 def main():
     app = QApplication(sys.argv)
+    app.setFont(QFont("Segoe UI", 10))
     
     # Load stylesheet on the application from the start
     from core.config_manager import config_manager
