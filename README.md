@@ -1,4 +1,4 @@
-﻿# WhisperX Studio (WhisperX GUI) v2.0.0
+﻿# WhisperX Studio (WhisperX GUI) v2.0.1
 
 <div align="center">
 
@@ -6,12 +6,13 @@
 *A Cassette-Futurist, Local-First Desktop Workbench for WhisperX Speech Recognition & Subtitle Generation.*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Release: v2.0.0](https://img.shields.io/badge/Release-v2.0.0-ff5c1a.svg)](https://github.com/HKDCC/WhisperX-GUI/releases/tag/v2.0.0)
+[![Release: v2.0.1](https://img.shields.io/badge/Release-v2.0.1-ff5c1a.svg)](https://github.com/HKDCC/WhisperX-GUI/releases/tag/v2.0.1)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![PyQt6](https://img.shields.io/badge/GUI-PyQt6-green.svg)](https://pypi.org/project/PyQt6/)
 
-[📦 下载 v2.0.0 源码包 (.zip)](https://github.com/HKDCC/WhisperX-GUI/archive/refs/tags/v2.0.0.zip) ·
-[🏷️ Release Notes](https://github.com/HKDCC/WhisperX-GUI/releases/tag/v2.0.0) ·
+[📦 下载 v2.0.1 源码包 (.zip)](https://github.com/HKDCC/WhisperX-GUI/archive/refs/tags/v2.0.1.zip) ·
+[💻 下载 Windows 免安装版 (x64)](https://github.com/HKDCC/WhisperX-GUI/releases/download/v2.0.1/WhisperX_GUI_v2.0.1_win64.zip) ·
+[🏷️ Release Notes](https://github.com/HKDCC/WhisperX-GUI/releases/tag/v2.0.1) ·
 [🚀 安装指南](#-快速下载与安装-download--installation) ·
 [📖 五步上手](#-五步零基础使用指南-5-step-usage-guide)
 
@@ -79,7 +80,7 @@
 
 #### 方式 A：直接下载压缩包（推荐零基础用户，无需安装 Git）
 
-1. 点击直链下载开源发布包：👉 [**WhisperX-GUI v2.0.0.zip**](https://github.com/HKDCC/WhisperX-GUI/archive/refs/tags/v2.0.0.zip)（或访问 [Releases 页面](https://github.com/HKDCC/WhisperX-GUI/releases/tag/v2.0.0)）。
+1. 点击直链下载开源发布包：👉 [**WhisperX-GUI v2.0.1.zip**](https://github.com/HKDCC/WhisperX-GUI/archive/refs/tags/v2.0.1.zip)（或访问 [Releases 页面](https://github.com/HKDCC/WhisperX-GUI/releases/tag/v2.0.1)）。
 2. 解压到本地文件夹，在解压后的目录中打开终端（PowerShell / Terminal），运行下方安装命令。
 
 #### 方式 B：使用 Git 克隆仓库
